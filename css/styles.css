@@ -1,0 +1,43 @@
+body{
+    background-color: #222831;
+}
+hr{
+  border-color: #393e46;
+  border-style: none;
+  border-top-style: dotted;  
+  width: 30%;
+  border-width: 5px;
+}  
+h1{
+  color: #32e0c4;
+}
+h2{
+    color: #32e0c4;
+}
+p{
+    color: #eeeeee;
+}
+li{
+    color: #eeeeee;
+}
+a{
+    color: #eeeeee;
+}
+
+label{
+    color: #eeeeee ;
+}
+
+input{
+    background-color: #393e46 ;
+    color: #eeeeee ;
+}
+
+textarea{
+    background-color: #393e46 ;
+    color: #eeeeee ;
+}
+
+.redirectText{
+    color: #32e0c4;   
+}
