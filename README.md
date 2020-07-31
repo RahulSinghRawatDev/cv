@@ -1,5 +1,5 @@
 # cv
 
 <html>
-  <img src="cvpatch.png"/>
+  <img src="cvpatch.PNG"/>
   </html>
